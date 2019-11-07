@@ -1,6 +1,6 @@
 var gameData = {
   love: 0,
-  lovePerClick: 1
+  lovePerClick: 1,
   lovePerClickCost: 10
 }
 function patWaifu() {
